@@ -123,25 +123,6 @@ Created: Colorib
         })
     }
 
-
-    /*------------------
-		Magnific
-    --------------------*/
-    $('.image-popup').magnificPopup({
-        type: 'image'
-    });
-
-
-    $(".nice-scroll").niceScroll({
-        cursorborder:"",
-        cursorcolor:"#dddddd",
-        boxzoom:false,
-        cursorwidth: 5,
-        background: 'rgba(0, 0, 0, 0.2)',
-        cursorborderradius:50,
-        horizrailenabled: false
-    });
-
     /*-------------------
 		Range Slider
 	--------------------- */
